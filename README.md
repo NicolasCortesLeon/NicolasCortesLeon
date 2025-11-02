@@ -19,7 +19,7 @@ Si no sé cómo hacerlo, aprendo y cuando lo aprendo lo ejecuto.
 
 ### Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/nicolas-cortes-leon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicolas-cortes-leon)
 
 ## 🛠 &nbsp;Tecnologías y Herramientas
 
