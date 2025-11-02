@@ -12,7 +12,8 @@
 </p>
 
 Hola Mundo! Me defino como una persona curiosa, si es que algo me parece interesante, busco todas las formas posibles de aprenderlo y comprenderlo.
-Si no sé cómo hacerlo, aprendo; y si aprendo, lo ejecuto.
+
+Si no sé cómo hacerlo, aprendo y cuando lo aprendo lo ejecuto.
 
 ---
 
@@ -47,17 +48,19 @@ Si no sé cómo hacerlo, aprendo; y si aprendo, lo ejecuto.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### 📊 Lenguajes Mas utlizados
+### 📊 Lenguajes Más Utilizados 🚀
 
-<div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=NicolasCortesLeon&show_icons=true&locale=en&layout=compact&theme=radical)]()
-  
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=NicolasCortesLeon&show_icons=true&locale=es&layout=compact&theme=radical)
+
 </div>
 
 ### 🚀 Proyectos Destacados
 
-| Proyecto | Tecnologías Clave | 
-| :---------: | :---------: |
+| Proyecto | Tecnologías Clave |
+| :---: | :---: |
 | [**Finning Práctica**](https://github.com/Kazanium/Portafolio/tree/main/PrácticaFinning) | Python / Power BI / JSON / REST API / HTTP / Power Automate |
-| [**Proyecto Tesis**](https://github.com/NicolasCortesLeon/Portafolio/tree/main/Proyecto_Tesis) | Python / Scikit-learn / PyTorch / Selenium / BeautifulSoup / XGBoost / Redes Neuronales (MLP) / Pandas / Matplotlib |
+| [**Proyecto Tesis**](https://github.CortesLeon/Portafolio/tree/main/Proyecto_Tesis) | Python / Scikit-learn / PyTorch / Selenium / BeautifulSoup / XGBoost / Redes Neuronales (MLP) / Pandas / Matplotlib |
+
+---
