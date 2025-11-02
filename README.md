@@ -8,6 +8,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20Civil%20Industrial;Optimizando%20procesos%20y%20resultados;Siempre%20aprendiendo%20nuevas%20tecnologias;¡Echa%20un%20vistazo%20a%20mis%20proyectos!&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20Civil%20Industrial;Optimizando%20procesos%20y%20resultados;Siempre%20aprendiendo%20nuevas%20tecnologías;¡Echa%20un%20vistazo%20a%20mis%20proyectos!&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
