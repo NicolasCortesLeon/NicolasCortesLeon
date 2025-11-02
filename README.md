@@ -60,7 +60,7 @@ Si no sé cómo hacerlo, aprendo y cuando lo aprendo lo ejecuto.
 
 | Proyecto | Tecnologías Clave |
 | :---: | :---: |
-| [**Finning Práctica**](https://github.com/Kazanium/Portafolio/tree/main/PrácticaFinning) | Python / Power BI / JSON / REST API / HTTP / Power Automate |
-| [**Proyecto Tesis**](https://github.CortesLeon/Portafolio/tree/main/Proyecto_Tesis) | Python / Scikit-learn / PyTorch / Selenium / BeautifulSoup / XGBoost / Redes Neuronales (MLP) / Pandas / Matplotlib |
+| [**Finning Práctica**](https://github.com/NicolasCortesLeon/PracticaFinning) | Python / Power BI / JSON / REST API / HTTP / Power Automate |
+| [**Proyecto Tesis**](https://github.com/NicolasCortesLeon/Proyecto_Tesis) | Python / Scikit-learn / PyTorch / Selenium / BeautifulSoup / XGBoost / Redes Neuronales (MLP) / Pandas / Matplotlib |
 
 ---
