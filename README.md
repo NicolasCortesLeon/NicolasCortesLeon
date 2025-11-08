@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero%20Civil%20Industrial;Optimizando%20procesos%20y%20resultados;Siempre%20aprendiendo%20nuevas%20tecnologías;Dale%20un%20vistazo%20a%20mis%20proyectos!&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science;Optimizando%20procesos%20y%20resultados;Siempre%20aprendiendo%20nuevas%20tecnologías;Dale%20un%20vistazo%20a%20mis%20proyectos!&ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 Hola Mundo! Me defino como una persona curiosa, si es que algo me parece interesante, busco todas las formas posibles de aprenderlo y comprenderlo.
